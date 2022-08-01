@@ -116,7 +116,7 @@ nav{
 
 #banner{
     /* border: 1px solid red; */
-    background: url("/images/banner/01.jpg") no-repeat center center/cover;
+    background: url("./images/banner/01.jpg") no-repeat center center/cover;
     
 }
 
@@ -197,7 +197,7 @@ h2,  h3{
 }
 
 .feature-img{
-    background: url("/images/feature/01.jpg") no-repeat center center/cover;
+    background: url("./images/feature/01.jpg") no-repeat center center/cover;
     width: 50%;
 }
 .feature-content{
